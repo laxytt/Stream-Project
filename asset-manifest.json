@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Stream-Project/static/js/main.4ed96e56.chunk.js",
-    "main.js.map": "/Stream-Project/static/js/main.4ed96e56.chunk.js.map",
+    "main.js": "/Stream-Project/static/js/main.875c5d20.chunk.js",
+    "main.js.map": "/Stream-Project/static/js/main.875c5d20.chunk.js.map",
     "runtime-main.js": "/Stream-Project/static/js/runtime-main.506b00fe.js",
     "runtime-main.js.map": "/Stream-Project/static/js/runtime-main.506b00fe.js.map",
     "static/js/2.a77eb9f3.chunk.js": "/Stream-Project/static/js/2.a77eb9f3.chunk.js",
     "static/js/2.a77eb9f3.chunk.js.map": "/Stream-Project/static/js/2.a77eb9f3.chunk.js.map",
     "index.html": "/Stream-Project/index.html",
-    "precache-manifest.4944d6847335ae17e50a4b82341dd935.js": "/Stream-Project/precache-manifest.4944d6847335ae17e50a4b82341dd935.js",
+    "precache-manifest.8149f009c94f0454d681d3ae93eb772f.js": "/Stream-Project/precache-manifest.8149f009c94f0454d681d3ae93eb772f.js",
     "service-worker.js": "/Stream-Project/service-worker.js",
     "static/js/2.a77eb9f3.chunk.js.LICENSE.txt": "/Stream-Project/static/js/2.a77eb9f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.506b00fe.js",
     "static/js/2.a77eb9f3.chunk.js",
-    "static/js/main.4ed96e56.chunk.js"
+    "static/js/main.875c5d20.chunk.js"
   ]
 }
